@@ -1,0 +1,39 @@
+.navigation-logo {
+    text-align: center;
+    position: relative;
+    margin:0 auto;
+    display:table;
+}
+
+body {
+    background-color: white;
+}
+
+ul{
+    list-style-type: none;
+    float: right;
+}
+
+li{
+    display: inline;
+    margin-right: 10px;
+}
+
+.main-box {
+    position:absolute;
+    left: 200px;
+    right: 200px;
+    
+}
+
+.section-box {
+    margin-top: 40px;
+}
+
+.center-images { 
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    height: auto;
+}
